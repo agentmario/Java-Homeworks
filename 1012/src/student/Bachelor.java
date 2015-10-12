@@ -6,7 +6,7 @@ package student;
 public class Bachelor extends sPrototype{
     public Bachelor(String n, String p, String t, String pr, int pt, int f)
     {
-        super();
+        super(n,p,t,pr,pt,f);
     }
     public String getTeacher()
     {
