@@ -58,7 +58,7 @@ public class Test4 {
                 if(n<=groupM.length)
                 {
                     Master tmp=groupM[n-1];
-                    System.out.println("AAA"+tmp.getTutor());
+                    System.out.println(tmp.getTutor());
                 }
             }
         }
